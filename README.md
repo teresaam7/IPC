@@ -8,7 +8,6 @@ Welcome to **Eco-Neighbour**! This innovative app transforms sustainability into
 
 **Goal**: Develop a novel user interface (UI) for a mobile/web app focused on sustainability, promoting eco-friendly practices and community involvement.
 
-**Group**: 4 students  
 **Topic**: Energy and Environmental Awareness  
 **Example Use Cases**:  
 - Monitoring energy consumption/generation
