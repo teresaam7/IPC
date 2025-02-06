@@ -1,4 +1,4 @@
-# 🌍 Eco-Neighbours - IPC
+# Eco-Neighbours - IPC
 
 Welcome to **Eco-Neighbour**! This innovative app transforms sustainability into a fun, interactive, and community-driven experience. Designed to promote eco-friendly habits, Eco-Neighbour encourages active engagement with your neighbors through exciting challenges that drive environmental awareness and positive change.
 
@@ -16,7 +16,7 @@ Welcome to **Eco-Neighbour**! This innovative app transforms sustainability into
 
 ---
 
-![Eco-Neighbours](docs/imagem.png)
+<img src="docs/image.png" alt="Descrição">
 
 
 ## 🌟 App Features
@@ -36,7 +36,7 @@ With **Eco-Neighbour**, you can:
 
 ---
 
-## 🌱 How It Works
+## How It Works
 
 Eco-Neighbour provides a unique, gamified approach to sustainability:
 
@@ -69,7 +69,7 @@ Build a high-fidelity prototype, conduct user testing, and gather feedback for f
 
 ---
 
-## 📈 Future Development
+## Future Development
 
 - **Advanced Analytics**: Enable users to access in-depth insights on their consumption habits.
 - **Community Events**: Introduce collaborative events to foster neighborhood-wide sustainability efforts.
