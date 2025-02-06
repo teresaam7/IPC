@@ -16,6 +16,9 @@ Welcome to **Eco-Neighbour**! This innovative app transforms sustainability into
 
 ---
 
+![Eco-Neighbours](docs/imagem.png)
+
+
 ## 🌟 App Features
 
 With **Eco-Neighbour**, you can:
